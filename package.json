@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-the-movie-db",
+  "version": "1.0.0",
+  "description": "This project is developed using the API from The Movie DB",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxGalindo150/api-rest-the-movie-db.git"
+  },
+  "author": "@maxgalindo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxGalindo150/api-rest-the-movie-db/issues"
+  },
+  "homepage": "https://github.com/MaxGalindo150/api-rest-the-movie-db#readme"
+}
